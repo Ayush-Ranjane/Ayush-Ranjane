@@ -7,10 +7,9 @@
 ---
 
 ### 💫 About Me
-I am an **Artificial Intelligence and Data Science student** currently pursuing my B.E. at **Dr. D. Y. Patil Institute of Engineering, Management and Research, Pune** (2023-2027). I have a strong foundation in building machine learning models and full-stack AI applications, currently maintaining a **CGPA of 8.51**. Based in **Shirwal, Maharashtra**, I'm driven by solving real-world problems through data-driven design.
+I am an **Artificial Intelligence and Data Science student** currently pursuing my B.E. at **Dr. D. Y. Patil Institute of Engineering, Management and Research, Pune** (2023-2027). I have a strong foundation in building machine learning models and full-stack AI applications, currently maintaining a **CGPA of 8.51**. I'm driven by solving real-world problems through data-driven design.
 
-- 🔭 **Currently working on:** **SentinalCAD AI**, an AI-driven CAD validation system for early-stage design intelligence.
-- 🚀 **Latest Project:** **Travel Setu**, a centralized digital tourism platform for Jharkhand featuring ML-based recommendations.
+- 🔭 **Currently working on:** **GreenCO2**, an Carbon Emissioon Accounting and Reporting with AI.
 - 🎓 **Education:** Focus on Supervised Learning, Classification, and Data Preprocessing.
 - 🌍 **Languages:** English, Hindi, Marathi, and Elementary German.
 
@@ -29,31 +28,19 @@ I am an **Artificial Intelligence and Data Science student** currently pursuing 
 </p>
 
 * **Programming:** Python, C++, SQL.
-* **Web Tech:** React (Vite + TypeScript), FastAPI, HTML, CSS, JavaScript.
-* **Machine Learning:** Supervised Learning, Classification, GANs, Scikit-learn.
-* **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA).
+* **Web Tech:** React, FastAPI, HTML, CSS, JavaScript.
+* **Machine Learning:** Supervised Learning, Classification, Scikit-learn.
+* **Data Analysis:** Pandas, NumPy, Exploratory Data Analysis (EDA), Power BI.
 
 ---
-
 ### 📂 Highlighted Projects
-* **Travel Setu:** An AI-powered travel platform connecting travelers with local agents in Jharkhand.
+* **GreenCO2:**, an Carbon Emissioon Accounting and Reporting with AI.
 * **Titanic Survival Prediction:** A full-stack application using a supervised ML model to predict passenger survival, deployed on Netlify.
-* **SentinalCAD AI:** AI-driven design intelligence for CAD validation.
 * **Automatic Parking Assistance System (APAS):** A hardware-software hybrid car using Arduino and IR sensors for autonomous navigation.
 
 ---
 
-### 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ayush-Ranjane&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush-Ranjane&layout=compact&theme=tokyonight" />
-</div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush-Ranjane&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
----
 
 ### 🤝 Connect with Me
 - 💼 [LinkedIn Profile](https://linkedin.com/in/ayush-ranjane-61051b303)
