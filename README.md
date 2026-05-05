@@ -46,6 +46,7 @@ I am an **Artificial Intelligence and Data Science student** currently pursuing 
 - 💼 Linkedin: https://linkedin.com/in/ayush-ranjane-61051b303
 - 🌐 Portfolio: https://ayushranjane.in
 - 📧 [Email Me](mailto:ayushranjane@gmail.com)
+- 📇 Kaggel: https://www.kaggle.com/ayushranjane
 - 🎵 Fun Fact: I enjoy music on Spotify and editing high-quality videos in DaVinci Resolve.
 
 ---
